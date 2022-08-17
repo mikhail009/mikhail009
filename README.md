@@ -1,9 +1,22 @@
-Hi, I'm Mikhail Khafizov!
 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
 <a href="https://vk.com/mikhailkhafizov"><img src="https://user-images.githubusercontent.com/49908108/185144333-f77322bf-a673-4ca1-b07b-1579148540cd.png" width="30" height="30" /></a>
 <a href="https://t.me/griboedovskie"><img src="https://e7.pngegg.com/pngimages/98/1001/png-clipart-computer-icons-scalable-graphics-blue-youtube-icon-ico-computer-icons-telegram.png" width="30" height="30" /></a>
 <a href="https://www.instagram.com/mikhailbelenoksov"><img src="https://icons-for-free.com/iconfiles/png/512/instagram+icon-1320168276654160044.png" width="35" height="35" /></a>
+</div>
 
+<div id="header" align="center"><h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1></div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
 
 Привет, я Михаил Хафизов, системный администратор самоучка который изучает каждый день что то новое.
 В данный момент я развиваюсь в Linux и DevOps проффесиях. 
