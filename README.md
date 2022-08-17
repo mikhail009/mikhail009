@@ -1,6 +1,10 @@
 Hi, I'm Mikhail Khafizov!
-ссылка на вк ссылка на телегу ссылка на инсту
-<img src="drawing.jpg" alt="drawing" width="200"/>
+
+<a href="https://vk.com/mikhailkhafizov"><img src="https://user-images.githubusercontent.com/49908108/185144333-f77322bf-a673-4ca1-b07b-1579148540cd.png" width="30" height="30" /></a>
+<a href="https://t.me/griboedovskie"><img src="https://e7.pngegg.com/pngimages/98/1001/png-clipart-computer-icons-scalable-graphics-blue-youtube-icon-ico-computer-icons-telegram.png" width="30" height="30" /></a>
+<a href="https://www.instagram.com/mikhailbelenoksov"><img src="https://icons-for-free.com/iconfiles/png/512/instagram+icon-1320168276654160044.png" width="35" height="35" /></a>
+
+
 Привет, я Михаил Хафизов, системный администратор самоучка который изучает каждый день что то новое.
 В данный момент я развиваюсь в Linux и DevOps проффесиях. 
 Я могу настроить сетевую инфраструктуу и сервисы а именно 
