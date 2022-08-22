@@ -50,6 +50,7 @@
 - :deciduous_tree: Знания linux на уровне LPIC101 но хочется большего.
 - :deciduous_tree: Не смогу написать сложный Bash и Powershell скрипт.
 - :deciduous_tree: Нет опыта работы с K8S
+- :deciduous_tree: Нет опыта работы с GitLab
  
 Из этого получается что я пока Junior DevOps :smiley: но я каждый день изучаю что то новое и хочу достигнуть большего.
  
